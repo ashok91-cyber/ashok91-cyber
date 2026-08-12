@@ -73,7 +73,8 @@ Tech: Flutter • Dart • Firebase
 📱 Mobile-first interface
 🔐 Authentication 
 
-🔗 Repository: [https://github.com/GauravDhangar-gd/flutter-chat-app.git]
+🔗 **Repository:** [https://github.com/GauravDhangar-gd/flutter-chat-app.git]
+
 ---
 
 ### 📸 AI-Assisted Smart Attendance System
