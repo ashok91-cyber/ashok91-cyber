@@ -68,10 +68,10 @@ A mobile chat application built with Flutter, focused on providing a simple and 
 
 Tech: Flutter • Dart • Firebase
 
-💬 Real-time / messaging functionality
-👤 User-based chat
-📱 Mobile-first interface
-🔐 Authentication 
+* 💬 Real-time / messaging functionality
+* 👤 User-based chat
+* 📱 Mobile-first interface
+* 🔐 Authentication 
 
 🔗 **Repository:** [https://github.com/GauravDhangar-gd/flutter-chat-app.git]
 
