@@ -62,7 +62,7 @@ A web-based productivity application designed to help users manage and track the
 
 🔗 **Repository:** [https://github.com/ashok91-cyber/smart-productivity-app.git]
 
-###💬 Flutter Chat App
+### 💬 Flutter Chat App
 
 A mobile chat application built with Flutter, focused on providing a simple and practical messaging experience.
 
